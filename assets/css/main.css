@@ -53,7 +53,7 @@ body::-webkit-scrollbar{
 
 .header__navbar-item-name{
     margin-left: 4px;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 
@@ -68,7 +68,7 @@ body::-webkit-scrollbar{
     top: calc(100% + 8px);
     right: 0;
     padding-left: 0;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     box-shadow: 1px 1px 5px #757575;
     display: none;
     border-radius: 3px;
@@ -117,7 +117,7 @@ a.header__navbar-sign-out{
 .header__navbar-item,
 .header__navbar-item-link{
     display: inline-block;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: var(--white-color);
     text-decoration: none;
     font-weight:  300;
@@ -152,7 +152,7 @@ a.header__navbar-sign-out{
 }
 
 .header__navbar-icon{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     position: relative;
     min-height: 26px;
     margin: 0 5px;
@@ -307,7 +307,7 @@ a.header__navbar-sign-out{
     display: block;
     color: black;
     font-weight: 600;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     line-height: 1.4rem;
     margin-bottom: 4px;
 }
@@ -329,7 +329,7 @@ a.header__navbar-sign-out{
     text-decoration: none;
     color: var(--text-color);
     margin: auto;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 600;
 }
 
@@ -348,7 +348,7 @@ a.header__navbar-sign-out{
 }
 
 .auth-form__heading {
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     font-weight: 600;
     color: var(--text-color);
 }
@@ -371,7 +371,7 @@ a.header__navbar-sign-out{
     height: 40px;
     margin-bottom: 16px;
     padding: 0 12px;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     border: 1.5px solid var(--border-color);
     border-radius: 4px;
     outline: none;
@@ -406,7 +406,7 @@ a.header__navbar-sign-out{
 }
 
 .auth-form__socials-icon{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin-right: 24px;
 }
 
@@ -487,7 +487,7 @@ a.header__navbar-sign-out{
 }
 
 .header__cart-icon {
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: var(--white-color);
     cursor: pointer;
 }
@@ -535,7 +535,7 @@ a.header__navbar-sign-out{
 .header__cart-list-no-cart-msg{
     display: block;
     margin-top: 12px;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     font-weight: 600;
     display: none;
     color: var(--text-color);
@@ -551,7 +551,7 @@ a.header__navbar-sign-out{
     position: absolute;
     padding: 1px 5px;
     background-color: var(--white-color);
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     line-height: 1.4rem;
     border-radius: 8px;
     color: var(--primary-color);
@@ -563,7 +563,7 @@ a.header__navbar-sign-out{
 .header__cart-heading{
     text-align: left;
     margin: 8px 0 8px 12px;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: #999;
 }
 
@@ -607,7 +607,7 @@ a.header__navbar-sign-out{
 
 .header__cart-item-name{
     flex: 1;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     padding-right: 10px;
     text-align: left;
     color: var(--text-color);
@@ -630,7 +630,7 @@ a.header__navbar-sign-out{
 .header__cart-item-price{
     color: var(--primary-color);
     font-weight: 600;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 .header__cart-item-multiply{
     font-size: 1rem;
@@ -648,13 +648,13 @@ a.header__navbar-sign-out{
     padding-right: 15px
 }
 .header__cart-item-description{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #757575;
     font-size: 500;
 }
 .header__cart-item-remove{
     margin-right: 12px;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: (--text-color);
     font-weight: 600;
 }
@@ -695,7 +695,7 @@ a.header__navbar-sign-out{
 
 .header__search-history-heading{
   margin:0px 16px;  
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 300 ;
   line-height: 35px;
   color: #ccc;
@@ -711,7 +711,7 @@ a.header__navbar-sign-out{
     list-style: none;
     text-decoration: none;
     height: 35px;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     padding: 0 16px;
 }
 
@@ -739,7 +739,7 @@ a.header__navbar-sign-out{
     width: 100%;
     height: 100%;
     border: none;
-    font-size: 1.35rem;
+    font-size: 1.2rem;
     outline: none;
     color: var(--text-color);
     padding: 0 16px;
@@ -768,12 +768,12 @@ a.header__navbar-sign-out{
 }
 
 .header__search-select-label{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: var(--text-color);
 }
 
 .header__search-select-icon {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: rgb(160, 159, 159);
     margin: 0 16px 0 10px;
     position: relative;
@@ -798,7 +798,7 @@ a.header__navbar-sign-out{
 }
 
 .header__search-btn-icon{
-    font-size: 1.6rem;
+    font-size: 1.2rem;
 }
 
 .header__search-option{
@@ -851,12 +851,12 @@ a.header__navbar-sign-out{
 }
 
 .header__search-option-item span{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: var(--text-color);
 }
 
 .header__search-option-item i{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: var(--primary-color);
     margin: 0 12px 0 8px;
     display: none;
@@ -883,13 +883,13 @@ a.header__navbar-sign-out{
 .categody__heading{
     margin-top: 0;
     color: var(--text-color);
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     padding: 12px 16px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .categody__heading-icon{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin-right: 4px;
     position: relative;
     top: -1px;
@@ -906,11 +906,10 @@ a.header__navbar-sign-out{
 .category-item__link{
     position: relative;
     text-decoration: none;
-    font-size: 1.4rem;
+    font-size:1.2rem;
     color: var(--text-color);
     padding: 8px 16px;
     display: block;
-    font-size: 400;
     transition: right linear 0.1s;
     /* định nghĩa right = 0 trước */
     right: 0;
@@ -952,7 +951,7 @@ a.header__navbar-sign-out{
     margin-left: auto;
 }
 .home-filter__label{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: #555;
     margin-right: 16px;
 }
@@ -970,7 +969,7 @@ a.header__navbar-sign-out{
 }
 
 .home-fliter__page-num{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: var(--text-color);
     margin-right: 22px;
 }
@@ -1001,7 +1000,7 @@ a.header__navbar-sign-out{
 
 .home-filter__page-icon{
     margin: auto;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: #555;
 }
 
@@ -1048,7 +1047,7 @@ a.header__navbar-sign-out{
 
 .home-product-item__name{
     height: 3.6rem;
-    font-size: 1.4rem;
+    font-size:1.2rem;
     color: var(--text-color);
     line-height: 1.8rem;
     padding: 0 10px;
@@ -1063,7 +1062,7 @@ a.header__navbar-sign-out{
 .home-product-item__price{
     display: flex;
     margin-left: 10px;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     align-items: baseline;
     flex-wrap: wrap;
 }
@@ -1073,7 +1072,7 @@ a.header__navbar-sign-out{
 
 }
 .home-product-item__price-current{
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     color: var(--primary-color);
 }
 .home-product-item__action{
@@ -1082,7 +1081,7 @@ a.header__navbar-sign-out{
     justify-content: space-between;
 }
 .home-product-item__like{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: tomato;
 }
 .home-product-item__rating{
@@ -1122,7 +1121,7 @@ a.header__navbar-sign-out{
     align-content: center;
     margin: 0 10px;
     color: #595959;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 400;
     padding-bottom: 8px;
 
@@ -1191,7 +1190,7 @@ a.header__navbar-sign-out{
 .home-product-item__sale-off-persent{
     padding-top: 4px;
     display: inline-block;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: var(--primary-color);
 }
 .home-product-item__sale-off-label{
@@ -1215,7 +1214,7 @@ a.header__navbar-sign-out{
 
 
 .footer__heading{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     text-transform: uppercase;
     color: var(--text-color);
 }
